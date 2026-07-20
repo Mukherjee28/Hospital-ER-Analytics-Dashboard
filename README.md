@@ -22,16 +22,16 @@ The dashboard was built to answer the following business questions:
 # 📊 Dashboard KPIs
 The dashboard summarizes the overall emergency room performance using the following Key Performance Indicators:
 ## KPI -- Value
-Total Patient Visits -- 5,000 
-Average Wait Time -- 82 min 
-Average Registration Time -- 12 min 
-Average Time to Triage -- 25 min
-Average Time to Medical Professionals -- 45 min 
-Admission Rate -- 37% 
-Average Patient Satisfaction -- 3 / 5 
-Hospitals Covered -- 5 
-Regions Covered -- 2 
-Patients Waiting >30 Minutes -- 71.46% 
+- Total Patient Visits -- 5,000 
+- Average Wait Time -- 82 min 
+- Average Registration Time -- 12 min 
+- Average Time to Triage -- 25 min
+- Average Time to Medical Professionals -- 45 min 
+- Admission Rate -- 37% 
+- Average Patient Satisfaction -- 3 / 5 
+- Hospitals Covered -- 5 
+- Regions Covered -- 2 
+- Patients Waiting >30 Minutes -- 71.46% 
 
 # 📈 Dashboard Features
 The interactive dashboard includes:
